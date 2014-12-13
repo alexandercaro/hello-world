@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Primera versión de un repositorio en github
